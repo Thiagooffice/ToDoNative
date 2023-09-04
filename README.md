@@ -54,7 +54,7 @@ $ cd ToDoNative
 $ yarn or npm
 
 # Run the project
-$ yarn start or npm start
+$ expo start
 
 # The server will initialize in the <http://localhost:3000>
 ```
