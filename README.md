@@ -1,6 +1,6 @@
 <h1 align="center">✅📋 To Do Native</h1>
 
-<img src="/client/assets/nativeApp.mp4" alt="Image description">
+<img src="assets/native.gif" alt="Image description">
 
 🔎 Este é um projeto simples de lista de afazeres desenvolvido em React Native. O aplicativo permite aos usuários criar, visualizar, atualizar e excluir tarefas da lista.
 
