@@ -74,7 +74,7 @@ $ cd ToDoExpress
 $ yarn or npm
 
 # Run the project
-$ yarn start or npm start
+$ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
